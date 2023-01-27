@@ -18,4 +18,4 @@ while producto <= 0:
     producto=int(input("ingrese el prodocto"))
 
 for i in range(0, producto):   
-    print("") 
+    print("rfgtyhgb") 
